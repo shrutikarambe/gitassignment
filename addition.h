@@ -1,3 +1,3 @@
-#include "addition.c"
+#include "addfunc.c"
 
 int addition(int,int);
